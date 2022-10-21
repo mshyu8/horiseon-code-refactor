@@ -1,19 +1,25 @@
 # horiseon-code-refactor
 
-## User Story
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+## Description
+This webpage was an on-the-job ticket where my job was to refactor the code. By replacing some of the non-semantic elements with semantic elements, I was able to get rid of some of the repeating code in the css file and make the over all code a lot cleaner and less repetitive. I also added alts to the images. 
 
-## Acceptance Criteria
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+## Installation
+N/A
+
+## Usage
+This webpage is used to give information about the 'company' named Horiseon. 
+
+## Credits
+N/A
+
+## License 
+Please refer to the License in the repo
+
+## Screenshot of Webpage
+Screenshot 2022-10-21 164133.png
+
+
+
+
+## Link to Webpage
+https://mshyu8.github.io/horiseon-code-refactor/
